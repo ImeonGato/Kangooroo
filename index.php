@@ -11,7 +11,7 @@
 	<div class="wrapper indexPage">                                                    <div class="mainSection">
 
 			<div class="logoContainer">
-					<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google icon image">
+					<img src="assets/images/kangooroo.png" alt="Kangooroo in Google Font and Color">
 				</div>
 				
 				<div class="searchContainer">
