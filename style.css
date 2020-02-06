@@ -29,7 +29,7 @@ body {
 
 .mainSection .searchContainer {
 
-    margin-top: 20%;
+    margin-top: 5%;
     width: 100%;
 }
 
@@ -57,21 +57,21 @@ body {
 
 .mainSection .searchContainer .searchBox {
     border: none; 
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08); 
-    height: 35px; 
+    box-shadow: 0 2px 2px 0 rgba(173, 234, 224, 0.58), 0 0 0 1px rgba(0,0,0,0.08);
+    height: 45px; 
     border-radius: 30px;
     outline: none; 
     padding: 10px;
     box-sizing: border-box; 
     font-size: 16px;
-    width: 240%; 
+    width: 36%; 
     max-width: 990px; 
     color: #000; 
 }
 
 
 .mainSection .logoContainer {
-    width: 220px;
+    width: 350px;
     text-align: center; 
 }
 
