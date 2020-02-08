@@ -31,6 +31,6 @@ function followLinks($url) {
 	
 }
 
-$startUrl = "";
+$startUrl = "http://www.bbc.com";
 followLinks($startUrl); 
 ?>
